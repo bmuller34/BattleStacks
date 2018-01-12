@@ -32,6 +32,7 @@ Def Type: Physical
 Description: Heavy Strike is a powerful attack with the primary weapon that takes two turns to use. On the first turn, the ability is "charged". On the second turn, the ability needs to be used again to "activate" and trigger the effect.
 
 
+
 ----Knight----
 
 Primary Stat: Constitution
@@ -45,6 +46,7 @@ Def Type: Physical + Magical
 Description: Defend increases the user's defenses for a turn, greatly reducing or nullifying incoming damage.
 
 
+
 ----Rogue----
 
 Primary Stat: Dexterity
@@ -56,6 +58,7 @@ Atk Type: Physical
 Def Type: Physical
 
 Description: Uses a special dagger to strike the vitals of your opponent. Has low damage but boasts a very high critical chance.
+
 
 
 ----Wizard----
@@ -73,11 +76,13 @@ Description: Unleashes a deluge of elemental wrath to the victim.
 
 ---------------Supports---------------
 
+
 ----The Fighter----
 
 Primary Stat: Strength
 
 Description: A supporting deck focusing mainly on bolstering Strength. Comes with an arsenal of weaponry.
+
 
 ----The Thief----
 
@@ -85,11 +90,13 @@ Primary Stat: Dexterity
 
 Description: A supporting deck focusing mainly on bolstering Dexterity and minimizing abilities.
 
+
 ----Rudolph The Brown-Nosed----
 
 Primary Stat: None
 
 Description: A jester who lives only to boost your ego.
+
 
 ----Steve, from Accounting----
 
